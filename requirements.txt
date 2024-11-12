@@ -1,0 +1,7 @@
+openai==1.27
+langchain==0.1.19
+langchain-openai==0.1.6
+tiktoken==0.6.0
+docarray==0.40.0
+streamlit
+python-dotenv
