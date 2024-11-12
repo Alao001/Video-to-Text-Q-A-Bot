@@ -13,12 +13,14 @@ Features
 - Ask questions about the video content
 
 - Receive answers generated from the transcript by a retrieval-based QA model
+  
 
 Technologies Used
 
-Streamlit: Python library for building interactive web apps
-Langchain: Framework for building modular NLP pipelines
-Langchain OpenAI: Integration of OpenAI API with Langchain
+-Streamlit: Python library for building interactive web apps
+
+-Langchain: Framework for building modular NLP pipelines
+
 OpenAI: Large language model API from OpenAI
 
 ![video_text_1](https://github.com/user-attachments/assets/92680309-617b-4023-91c2-f196cb20cb7a)
