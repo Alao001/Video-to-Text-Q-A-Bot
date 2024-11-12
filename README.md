@@ -4,11 +4,15 @@ This project allows users to upload a video, transcribe it into text, and then a
 
 Features
 
-Upload video files
-Automatic video transcription using OpenAI Whisper API
-Interactive text area displaying the transcribed text
-Ask questions about the video content
-Receive answers generated from the transcript by a retrieval-based QA model
+- Upload video files
+
+- Automatic video transcription using OpenAI Whisper API
+
+- Interactive text area displaying the transcribed text
+
+- Ask questions about the video content
+
+- Receive answers generated from the transcript by a retrieval-based QA model
 
 Technologies Used
 
