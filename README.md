@@ -2,6 +2,7 @@ Video-to-Text Q&A Bot
 
 This project allows users to upload a video, transcribe it into text, and then ask questions about the content of the video. The answers are generated using a powerful retrieval-based Question Answering (QA) model.
 
+
 Features
 
 - Upload video files
@@ -21,7 +22,7 @@ Technologies Used
 
 -Langchain: Framework for building modular NLP pipelines
 
-OpenAI: Large language model API from OpenAI
+-OpenAI: Large language model API from OpenAI
 
 ![video_text_1](https://github.com/user-attachments/assets/92680309-617b-4023-91c2-f196cb20cb7a)
 
