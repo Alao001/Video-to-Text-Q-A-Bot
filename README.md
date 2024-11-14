@@ -1,9 +1,8 @@
-Video-to-Text Q&A Bot
+𝐕𝐢𝐝𝐞𝐨-𝐭𝐨-𝐓𝐞𝐱𝐭 𝐐&𝐀 𝐁𝐨𝐭
 
 This project allows users to upload a video, transcribe it into text, and then ask questions about the content of the video. The answers are generated using a powerful retrieval-based Question Answering (QA) model.
 
-
-Features
+𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 - Upload video files
 
@@ -16,7 +15,7 @@ Features
 - Receive answers generated from the transcript by a retrieval-based QA model
   
 
-Technologies Used
+𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐔𝐬𝐞𝐝
 
 -Streamlit: Python library for building interactive web apps
 
